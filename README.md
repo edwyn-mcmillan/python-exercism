@@ -1,5 +1,5 @@
-# typescript-exercism
+# python-exercism
 
-My progress in the typescript-exercism language track.
+My progress in the python-exercism language track.
 
-https://exercism.io/tracks/typescript
+https://exercism.org/tracks/python
